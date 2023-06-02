@@ -5,6 +5,7 @@
 Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning java
+- speaking_head Learning a new language
 - 📫 How to reach me:
 - Email:ma.ebrahimzadeh@gmail.com
 <a href=&quothttps://github.com/ghost1372&quot>
