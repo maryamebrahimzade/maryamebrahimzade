@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
+:computer:Learn
 - :books: Deepening my knowledge of Java
 - 🌱 I’m currently learning Linux
 - :speaking_head: Learning a new language
