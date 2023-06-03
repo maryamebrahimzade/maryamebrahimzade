@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning java
+- 🌱 Deepening my knowledge of Java
 - 🌱 I’m currently learning Linux
-- 🌱 Learning a new language
+- :speaking_head:Learning a new language
 - 📫 How to reach me:
 - Email: ma.ebrahimzadeh@gmail.com
 
