@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning java
+- 🌱 I’m currently earning Linux
 - 🌱 Learning a new language
 - 📫 How to reach me:
 - Email: ma.ebrahimzadeh@gmail.com
