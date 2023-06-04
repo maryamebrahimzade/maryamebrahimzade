@@ -1,4 +1,4 @@
-### Hi 👋, I'm maryam ebrahimzade
+### Hi 👋, I'm maryam
 <!--
 **maryamebrahimzade/maryamebrahimzade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
