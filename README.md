@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-## 💫 About Me:<br>
+## :computer:Learn:<br>
 ### - :books: Deepening my knowledge of Java<br>- 🌱 I’m currently learning Linux<br>- :speaking_head: Learning a new language
 
 
