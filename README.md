@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm maryam ebrahimzade</h1>
+### Hi 👋, I'm maryam ebrahimzade
 <!--
 **maryamebrahimzade/maryamebrahimzade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
