@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>Hi I'm Maryam,I have done graphic and non-computer work as well as programming but finally   I choose Java programming language.</p>
+Hi I'm Maryam,I have done graphic and non-computer work as well as programming but finally   I choose Java programming language.
 ## :computer: Learn:<br>
 ### - :books: Deepening my knowledge of Java<br>- 🌱 I’m currently learning Linux<br>
 <br>
