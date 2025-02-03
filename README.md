@@ -1,7 +1,7 @@
 ### Hi there 👋
-Hi I'm Maryam,
-• A junior java developer with nearly two years of work experience
-• Proficiency in the Java programming language
+Hi I'm Maryam,<br>
+• A junior java developer with nearly two years of work experience<br>
+• Proficiency in the Java programming language<br>
 • Experience working with microservices and RESTful APIs
 #
 ### - :books: Deepening my knowledge of Java<br>- 🌱 I’m currently learning Linux<br>
