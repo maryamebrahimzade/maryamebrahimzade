@@ -1,5 +1,8 @@
 ### Hi there 👋
-Hi I'm Maryam,I have done graphic and non-computer work as well as programming but finally I choose Java programming language.
+Hi I'm Maryam,
+• A junior java developer with nearly two years of work experience
+• Proficiency in the Java programming language
+• Experience working with microservices and RESTful APIs
 #
 ### - :books: Deepening my knowledge of Java<br>- 🌱 I’m currently learning Linux<br>
 <br>
