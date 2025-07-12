@@ -4,7 +4,6 @@ Hi I'm Maryam,<br>
 • Proficiency in the Java programming language<br>
 • Experience working with microservices and RESTful APIs
 #
-### - :books: Deepening my knowledge of Java<br>- 🌱 I’m currently learning Linux<br>
 <br>
 
  <a href="https://www.linkedin.com/in/maryam-ebrahimzade/" rel="nofollow"><img src="https://camo.githubusercontent.com/d20ff137ffba314b55d6df5d595306ab7c55142a5f2115ef9935722fb36cfc6b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&amp;logo=linkedin" style="max-width: 50%;"></a>
